@@ -1,0 +1,1 @@
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "PreventLockScreen" /t REG_SZ /d "C:\sources\prevent_lock_screen\prevent_lock_screen.exe" /f

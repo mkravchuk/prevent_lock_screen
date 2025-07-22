@@ -1,0 +1,1 @@
+cl prevent_lock_screen.cpp /EHsc /link /SUBSYSTEM:WINDOWS user32.lib
